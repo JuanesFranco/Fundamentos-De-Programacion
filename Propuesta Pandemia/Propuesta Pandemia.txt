@@ -1,0 +1,17 @@
+
+                      PROPUESTA PARA APOYAR LA SOLUCIÓN AL TEMA DE LA PANDEMIA 
+ 
+ 
+Desarrollar una aplicación por la cual los médicos y el personal de salud puedan registrar los datos de una persona 
+y el estado en que se encuentra relacionado con el virus, por ejemplo, si actualmente está contagiada de covid 19,
+ si lo tuvo, si presenta síntomas, etc. Esta aplicación se puede usar para permitir la entrada a espacios públicos;
+ lo que hay que hacer es registrar los datos de la persona y la aplicación mostrara el estado en el que se encuentra,
+ si está en riesgo de contagiar a alguien o si esta fuera de peligro. 
+
+Los datos de las personas se irán actualizando mediante el estado y gravedad de la persona, Por ejemplo, si es un
+ caso leve, después de un sema de dejar de presentar síntomas esta persona ya estará fuera de peligro y aparecerá 
+en la app como inofensivo, es por eso que al utilizar esta aplicación se deben ingresar los datos correctos por el 
+doctor o el personal de salud para evitar inconvenientes y malos entendidos. 
+
+Pienso que esta aplicación puede ser útil para evitar más contagios, ya que, existen muchas personas que a pesar de 
+presentar síntomas o que poseen el virus no les importa poner en riesgo a los demás
