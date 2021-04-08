@@ -1,4 +1,4 @@
-contador=0
+ contador=0
 contador2=0
 contador3=0
 n=int(input("ingrese la cantidad de triangulos a calcular"))
